@@ -12,8 +12,5 @@ __pycache__/
 # Archivos de entorno (Credenciales)
 .env
 
-# Base de datos local (si usaras SQLite, aunque usas MySQL)
-*.sqlite3
-
 # Logs
 *.log
